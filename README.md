@@ -406,6 +406,7 @@ Frontend workspaces and chat interfaces with built-in agent plugins and tool-use
 - [FutureOS](https://github.com/futuregene/future-os) `🔬` `[Rust]` `[CLI]` - One approval-gated AI agent spanning terminal, desktop, mobile, and chat clients on a shared local Rust backend.
 - [lucinate](https://github.com/lucinate-ai/lucinate) `🌱` `[Go]` `[TUI]` - Multi-backend terminal AI chat client for OpenClaw, Hermes, Ollama, and OpenAI-compatible APIs with routines, multi-agent switching, and local agent skills.
 - [Tale](https://github.com/tale-project/tale) `🔬` `[TypeScript]` `[Multi-Agent]` - Self-hostable platform for coordinating people and AI agents through delegated project tasks, persistent sandbox workspaces, and human-reviewed results.
+- [TecAdRise Bot](https://github.com/tecadrise-ai/TecAdRiseBot) `🔬` `[TypeScript]` `[Agent]` - A free open-source Windows Electron multi-agent desktop chat shell powered by the Cursor SDK.
 - [Vicoa](https://github.com/vicoa-ai/vicoa) `🔬` `[Desktop]` `[Multi-Agent]` - Agentic IDE orchestrating a team of coding agents from desktop, web, or mobile with real-time sync.
 
 ## Agent Deployment and Hosting
