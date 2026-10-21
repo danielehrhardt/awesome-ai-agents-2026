@@ -302,6 +302,7 @@ Sandboxes, web scrapers, browser automation, and networking layers that agents d
 - [HumanEndpoint](https://humanendpoint.au/) `🔬` `[TypeScript]` `[MCP]` - Human execution infrastructure for agents to request reviewed work, settle fees via x402 USDC, track jobs, and retrieve verifiable evidence.
 - [Jina Reader](https://github.com/jina-ai/reader) `🌱` `[TypeScript]` `[Multi-Agent]` - Converts any URL to LLM-ready clean text via a simple API prefix for agent ingestion.
 - [LlamaParse](https://github.com/run-llama/llama_cloud_services) `🌱` `[Python]` `[RAG]` - GenAI-native document parser designed to extract complex tables and layouts for RAG pipelines.
+- [Loadout](https://loadout-blush.vercel.app) `🔬` `[TypeScript]` `[Tool]` - Free version-pinned AI coding rule packs for Cursor, Claude Code, Copilot, and AGENTS.md so agents stop inventing outdated APIs.
 - [Marker](https://github.com/datalab-to/marker) `🌱` `[Python]` `[CLI]` - Converts PDF documents to markdown with high accuracy for tables, equations, and figures.
 - [Notte](https://github.com/nottelabs/notte) `🚀` `[Python]` `[Pipeline]` - Browser automation engine optimized for production AI pipelines.
 - [Pilot Protocol](https://github.com/pilot-protocol/pilotprotocol) `🌱` `[Go]` `[Multi-Agent]` - Networking stack for distributed agent systems with encrypted tunnels.
