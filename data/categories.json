@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T14:16:13.084Z",
+  "generatedAt": "2026-10-22T09:30:44.110Z",
   "source": "README.md",
   "totalCategories": 32,
   "categories": [
@@ -21,7 +21,7 @@
     {
       "name": "Multi-Agent Systems",
       "slug": "multi-agent-systems",
-      "count": 15
+      "count": 16
     },
     {
       "name": "Agent Communication Protocols",

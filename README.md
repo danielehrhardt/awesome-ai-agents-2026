@@ -208,6 +208,7 @@ Have an AI agent, framework, tool, skill, or infrastructure project worth sharin
 - [5dive](https://github.com/5dive-ai/5dive) `🔬` `[Shell]` `[Multi-Agent]` - An open-source team of AI coding agents you text like coworkers, each with its own job.
 - [AgentVerse](https://github.com/OpenBMB/AgentVerse) `🌱` `[Python]` `[Multi-Agent]` - Framework for building custom multi-agent environments to accomplish collaborative tasks.
 - [Bunkhouse](https://github.com/braedonsaunders/bunkhouse) `🔬` `[TypeScript]` `[Multi-Agent]` - Multitenant AI employees with a company inbox, org chart, and governed procedures for main-street business.
+- [Concord MCP](https://github.com/Get-Concord-AI/concord-mcp) `🌱` `[TypeScript]` `[MCP Server]` - Local-first MCP server giving coding agents shared work-state, including presence, file claims, messaging, handoffs and review packets, so multiple agents coordinate on one repo.
 - [EvoAgentX](https://github.com/ANative-Lab/EvoAgentX) `🌱` `[Python]` `[Multi-Agent]` - Evaluates and evolves agentic workflows over time using automatic optimization.
 - [Hivekeep](https://github.com/MarlBurroW/hivekeep) `🔬` `[TypeScript]` `[Multi-Agent]` - Runs a team of specialized self-hosted agents that collaborate, share memory, and build their own tools.
 - [Hivemoot](https://github.com/hivemoot/hivemoot) `🚀` `[Python]` `[GitHub]` - Autonomous agent teams that collaboratively build software on GitHub.
